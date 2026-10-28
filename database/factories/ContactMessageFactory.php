@@ -1,0 +1,27 @@
+<?php
+
+namespace Database\Factories;
+
+use App\Models\ContactMessage;
+use Illuminate\Database\Eloquent\Factories\Factory;
+use Illuminate\Support\Str;
+
+/**
+ * @extends Factory<ContactMessage>
+ */
+class ContactMessageFactory extends Factory
+{
+    protected $model = ContactMessage::class;
+
+    public function definition(): array
+    {
+        return [
+            'name' => fake()->name(),
+            'email' => fake()->safeEmail(),
+            'phone' => fake()->numerify('+966 5## ### ###'),
+            'subject' => fake()->sentence(4),
+            'message' => fake()->paragraph(),
+            'is_read' => false,
+        ];
+    }
+}

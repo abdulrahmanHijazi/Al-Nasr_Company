@@ -1,0 +1,563 @@
+[
+    {
+        "slug": "inverter-voltronic-axpert",
+        "file": "inverter-voltronic-axpert.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert VM II TWIN 3.6-5.6 kW",
+            "ar": "فواترونيك Axpert VM II TWIN ‏3.6-5.6 كيلوواط"
+        },
+        "color": "#2563eb"
+    },
+    {
+        "slug": "inverter-felicity-hybrid",
+        "file": "inverter-felicity-hybrid.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVEM6048-II hybrid inverter",
+            "ar": "انفرتر هجين فلاستي IVEM6048-II"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-solis-hybrid",
+        "file": "inverter-solis-hybrid.glb",
+        "type": "inverter",
+        "brand": "Solis",
+        "name": {
+            "en": "Solis hybrid inverter",
+            "ar": "انفرتر هجين سوليز"
+        },
+        "color": "#1d4ed8"
+    },
+    {
+        "slug": "inverter-growatt-spf",
+        "file": "inverter-growatt-spf.glb",
+        "type": "inverter",
+        "brand": "Growatt",
+        "name": {
+            "en": "Growatt off-grid inverter",
+            "ar": "انفرتر منفصل جروات"
+        },
+        "color": "#16a34a"
+    },
+    {
+        "slug": "inverter-deye-hybrid",
+        "file": "inverter-deye-hybrid.glb",
+        "type": "inverter",
+        "brand": "Deye",
+        "name": {
+            "en": "Deye hybrid inverter",
+            "ar": "انفرتر هجين ديي"
+        },
+        "color": "#0ea5e9"
+    },
+    {
+        "slug": "battery-tobac-rack-48v",
+        "file": "battery-tobac-rack-48v.glb",
+        "type": "battery",
+        "brand": "Tobac",
+        "name": {
+            "en": "Tobac 48V 100Ah rack LiFePO4 battery",
+            "ar": "بطارية ليثيوم توباك 48 فولت 100 أمبير (رف)"
+        },
+        "color": "#f59e0b"
+    },
+    {
+        "slug": "battery-tobac-cabinet",
+        "file": "battery-tobac-cabinet.glb",
+        "type": "battery",
+        "brand": "Tobac",
+        "name": {
+            "en": "Tobac 4-module battery cabinet",
+            "ar": "خزانة بطاريات توباك (4 وحدات)"
+        },
+        "color": "#f59e0b"
+    },
+    {
+        "slug": "battery-felicity-wall-48v",
+        "file": "battery-felicity-wall-48v.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity LPBA48200 wall/floor LiFePO4 battery",
+            "ar": "بطارية ليثيوم فلاستي LPBA48200 (جدارية / أرضية)"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-pylontech-rack",
+        "file": "battery-pylontech-rack.glb",
+        "type": "battery",
+        "brand": "Pylontech",
+        "name": {
+            "en": "Pylontech rack battery",
+            "ar": "بطارية بايلونتك (رف)"
+        },
+        "color": "#16a34a"
+    },
+    {
+        "slug": "battery-dyness-wall",
+        "file": "battery-dyness-wall.glb",
+        "type": "battery",
+        "brand": "Dyness",
+        "name": {
+            "en": "Dyness wall-mount battery",
+            "ar": "بطارية داينس (جدارية)"
+        },
+        "color": "#0ea5e9"
+    },
+    {
+        "slug": "controller-voltronic-mppt",
+        "file": "controller-voltronic-mppt.glb",
+        "type": "charge-controller",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic MPPT 80A solar charge controller",
+            "ar": "منظم شحن شمسي MPPT فواترونيك 80 أمبير"
+        },
+        "color": "#2563eb"
+    },
+    {
+        "slug": "controller-felicity-mppt",
+        "file": "controller-felicity-mppt.glb",
+        "type": "charge-controller",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity MPPT 60A solar charge controller",
+            "ar": "منظم شحن شمسي MPPT فلاستي 60 أمبير"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "controller-epever-tracer",
+        "file": "controller-epever-tracer.glb",
+        "type": "charge-controller",
+        "brand": "EPever",
+        "name": {
+            "en": "EPever Tracer MPPT charge controller",
+            "ar": "منظم شحن شمسي MPPT إي بي إيفر Tracer"
+        },
+        "color": "#0ea5e9"
+    },
+    {
+        "slug": "controller-victron-smartsolar",
+        "file": "controller-victron-smartsolar.glb",
+        "type": "charge-controller",
+        "brand": "Victron",
+        "name": {
+            "en": "Victron SmartSolar MPPT charge controller",
+            "ar": "منظم شحن شمسي MPPT فيكترون SmartSolar"
+        },
+        "color": "#0284c7"
+    },
+    {
+        "slug": "controller-pwm-30a",
+        "file": "controller-pwm-30a.glb",
+        "type": "charge-controller",
+        "brand": null,
+        "name": {
+            "en": "PWM 30A solar charge controller",
+            "ar": "منظم شحن شمسي PWM 30 أمبير"
+        },
+        "color": "#22c55e"
+    },
+    {
+        "slug": "breaker-mcb-1p",
+        "file": "breaker-mcb-1p.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "MCB 1-pole circuit breaker",
+            "ar": "قاطع صغير MCB قطب واحد"
+        },
+        "color": "#64748b"
+    },
+    {
+        "slug": "breaker-mcb-2p",
+        "file": "breaker-mcb-2p.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "MCB 2-pole circuit breaker",
+            "ar": "قاطع صغير MCB قطبين"
+        },
+        "color": "#64748b"
+    },
+    {
+        "slug": "breaker-mcb-3p",
+        "file": "breaker-mcb-3p.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "MCB 3-pole circuit breaker",
+            "ar": "قاطع صغير MCB ثلاثة أقطاب"
+        },
+        "color": "#64748b"
+    },
+    {
+        "slug": "breaker-mcb-4p",
+        "file": "breaker-mcb-4p.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "MCB 4-pole circuit breaker",
+            "ar": "قاطع صغير MCB أربعة أقطاب"
+        },
+        "color": "#64748b"
+    },
+    {
+        "slug": "breaker-dc-mcb-2p",
+        "file": "breaker-dc-mcb-2p.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "DC MCB 2-pole breaker (solar)",
+            "ar": "قاطع تيار مستمر DC قطبين (للطاقة الشمسية)"
+        },
+        "color": "#1d4ed8"
+    },
+    {
+        "slug": "breaker-mcb-shunt-trip",
+        "file": "breaker-mcb-shunt-trip.glb",
+        "type": "breaker",
+        "brand": null,
+        "name": {
+            "en": "MCB with shunt-trip release",
+            "ar": "قاطع MCB مع ملف فصل شنت"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "breaker-mccb-3p",
+        "file": "breaker-mccb-3p.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMG-100 3-pole MCCB 100A",
+            "ar": "قاطع علبة مصبوبة CHINT NXMG-100 ثلاثة أقطاب ‏100 أمبير"
+        },
+        "color": "#334155"
+    },
+    {
+        "slug": "breaker-mccb-shunt-trip",
+        "file": "breaker-mccb-shunt-trip.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMG-100 MCCB with shunt-trip release",
+            "ar": "قاطع علبة مصبوبة CHINT NXMG-100 مع ملف فصل شنت"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-voltronic-touch",
+        "file": "inverter-voltronic-touch.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic InfiniSolar V5 6.2 kW hybrid inverter",
+            "ar": "فواترونيك InfiniSolar V5 هجين ‏6.2 كيلوواط"
+        },
+        "color": "#2563eb"
+    },
+    {
+        "slug": "inverter-voltronic-smart-load",
+        "file": "inverter-voltronic-smart-load.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert VM III TWIN 4-6 kW",
+            "ar": "فواترونيك Axpert VM III TWIN ‏4-6 كيلوواط"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-felicity-ivcm3224",
+        "file": "inverter-felicity-ivcm3224.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVCM3224 solar inverter charger",
+            "ar": "انفرتر وشاحن شمسي فلاستي IVCM3224"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-felicity-fla48350",
+        "file": "battery-felicity-fla48350.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity FLA48350 floor-standing LiFePO4 battery",
+            "ar": "بطارية ليثيوم فلاستي FLA48350 أرضية"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-felicity-flh48100",
+        "file": "battery-felicity-flh48100.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity FLH48100 stackable LiFePO4 battery rack",
+            "ar": "رف بطاريات ليثيوم فلاستي FLH48100 قابل للتكديس"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-voltronic-mks4",
+        "file": "inverter-voltronic-mks4.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert MKS 4 TWIN 6 kW",
+            "ar": "فواترونيك Axpert MKS 4 TWIN ‏6 كيلوواط"
+        },
+        "color": "#2563eb"
+    },
+    {
+        "slug": "inverter-voltronic-vm4",
+        "file": "inverter-voltronic-vm4.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert VM4 TWIN 4-6 kW",
+            "ar": "فواترونيك Axpert VM4 TWIN ‏4-6 كيلوواط"
+        },
+        "color": "#2563eb"
+    },
+    {
+        "slug": "inverter-voltronic-vm2-elite",
+        "file": "inverter-voltronic-vm2-elite.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert VM II Elite 6 kW",
+            "ar": "فواترونيك Axpert VM II Elite ‏6 كيلوواط"
+        },
+        "color": "#a78bfa"
+    },
+    {
+        "slug": "inverter-voltronic-king2",
+        "file": "inverter-voltronic-king2.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert King II TWIN 6 kW",
+            "ar": "فواترونيك Axpert King II TWIN ‏6 كيلوواط"
+        },
+        "color": "#d6d3c7"
+    },
+    {
+        "slug": "inverter-voltronic-king-ip52",
+        "file": "inverter-voltronic-king-ip52.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert King IP52",
+            "ar": "فواترونيك Axpert King IP52"
+        },
+        "color": "#1f2937"
+    },
+    {
+        "slug": "inverter-voltronic-mks5",
+        "file": "inverter-voltronic-mks5.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert MKS 5 TWIN 6.5 kW",
+            "ar": "فواترونيك Axpert MKS 5 TWIN ‏6.5 كيلوواط"
+        },
+        "color": "#0ea5e9"
+    },
+    {
+        "slug": "inverter-voltronic-max-duplex",
+        "file": "inverter-voltronic-max-duplex.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert MAX II Duplex 8-11 kW",
+            "ar": "فواترونيك Axpert MAX II Duplex ‏8-11 كيلوواط"
+        },
+        "color": "#22d3ee"
+    },
+    {
+        "slug": "inverter-voltronic-max-hmi",
+        "file": "inverter-voltronic-max-hmi.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert MAX TWIN HMI",
+            "ar": "فواترونيك Axpert MAX TWIN HMI"
+        },
+        "color": "#38bdf8"
+    },
+    {
+        "slug": "inverter-voltronic-ultra",
+        "file": "inverter-voltronic-ultra.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic Axpert Ultra 8-11 kW",
+            "ar": "فواترونيك Axpert Ultra ‏8-11 كيلوواط"
+        },
+        "color": "#0b1220"
+    },
+    {
+        "slug": "inverter-voltronic-infini-v4",
+        "file": "inverter-voltronic-infini-v4.glb",
+        "type": "inverter",
+        "brand": "Voltronic",
+        "name": {
+            "en": "Voltronic InfiniSolar V4 TWIN 6.2 kW",
+            "ar": "فواترونيك InfiniSolar V4 TWIN ‏6.2 كيلوواط"
+        },
+        "color": "#facc15"
+    },
+    {
+        "slug": "inverter-felicity-iam6048",
+        "file": "inverter-felicity-iam6048.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVAM6048 outdoor hybrid inverter",
+            "ar": "انفرتر هجين خارجي فلاستي IVAM6048"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-felicity-ibm8048",
+        "file": "inverter-felicity-ibm8048.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVBM8048 hybrid inverter",
+            "ar": "انفرتر هجين فلاستي IVBM8048"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-felicity-igm1216",
+        "file": "inverter-felicity-igm1216.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVGM1216 hybrid inverter",
+            "ar": "انفرتر هجين فلاستي IVGM1216"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-felicity-ipm7548",
+        "file": "inverter-felicity-ipm7548.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVPM7548 low-frequency inverter",
+            "ar": "انفرتر فلاستي IVPM7548 (محول نحاسي)"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "inverter-felicity-ips0712",
+        "file": "inverter-felicity-ips0712.glb",
+        "type": "inverter",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity IVPS0712 pure-sine inverter",
+            "ar": "انفرتر فلاستي IVPS0712 موجة نقية"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-felicity-flb48206",
+        "file": "battery-felicity-flb48206.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity FLB48206 LiFePO4 battery",
+            "ar": "بطارية ليثيوم فلاستي FLB48206"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-felicity-flb48280",
+        "file": "battery-felicity-flb48280.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity FLB48280 floor-standing battery on wheels",
+            "ar": "بطارية فلاستي FLB48280 أرضية بعجلات"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "battery-felicity-lux-x-96050",
+        "file": "battery-felicity-lux-x-96050.glb",
+        "type": "battery",
+        "brand": "Felicity",
+        "name": {
+            "en": "Felicity LUX-X high-voltage battery tower",
+            "ar": "برج بطاريات فلاستي LUX-X عالي الجهد"
+        },
+        "color": "#f97316"
+    },
+    {
+        "slug": "breaker-mccb-nxmg-250",
+        "file": "breaker-mccb-nxmg-250.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMG-250 MCCB 250A",
+            "ar": "قاطع علبة مصبوبة CHINT NXMG-250 ‏250 أمبير"
+        },
+        "color": "#334155"
+    },
+    {
+        "slug": "breaker-mccb-nxmg-400",
+        "file": "breaker-mccb-nxmg-400.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMG-400 MCCB 400A",
+            "ar": "قاطع علبة مصبوبة CHINT NXMG-400 ‏400 أمبير"
+        },
+        "color": "#334155"
+    },
+    {
+        "slug": "breaker-mccb-nxmg-key",
+        "file": "breaker-mccb-nxmg-key.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMG-100C MCCB with key lock",
+            "ar": "قاطع علبة مصبوبة CHINT NXMG-100C بقفل مفتاح"
+        },
+        "color": "#334155"
+    },
+    {
+        "slug": "breaker-mccb-nm8n-4p",
+        "file": "breaker-mccb-nm8n-4p.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NM8N-125S 4-pole MCCB 125A",
+            "ar": "قاطع علبة مصبوبة CHINT NM8N-125S أربعة أقطاب ‏125 أمبير"
+        },
+        "color": "#e5e7eb"
+    },
+    {
+        "slug": "breaker-mccb-nxmd",
+        "file": "breaker-mccb-nxmd.glb",
+        "type": "breaker",
+        "brand": "Chint",
+        "name": {
+            "en": "Chint NXMD-250 automatic transfer MCCB",
+            "ar": "قاطع CHINT NXMD-250 للتحويل الأوتوماتيكي"
+        },
+        "color": "#334155"
+    }
+]

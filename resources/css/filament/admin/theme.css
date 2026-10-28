@@ -1,0 +1,68 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+/* Cairo (Arabic + Latin), self-hosted from node_modules — see ->font() in AdminPanelProvider */
+@import '@fontsource-variable/cairo';
+
+@source '../../../../app/Filament/**/*';
+@source '../../../../resources/views/filament/**/*';
+@source '../../../../vendor/bezhansalleh/filament-language-switch/**/*';
+@source '../../../../vendor/bezhansalleh/filament-shield/**/*';
+@source '../../../../vendor/lara-zeus/spatie-translatable/**/*';
+
+/*
+ * Al-Nasr admin polish.
+ * Only touches stable component hooks (fi-*); colours come from the panel palette.
+ */
+:root {
+    --font-family: 'Cairo Variable', ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+    font-family: var(--font-family);
+    font-feature-settings: 'kern', 'liga';
+}
+
+/* Cairo sits a little tall; give long Arabic copy room to breathe */
+.fi-body,
+.fi-main {
+    line-height: 1.6;
+}
+
+/* Cards: softer corners, quieter ring, subtle depth */
+.fi-section {
+    border-radius: 1rem;
+    box-shadow: 0 1px 2px rgb(15 23 42 / 0.04), 0 8px 24px -16px rgb(15 23 42 / 0.18);
+}
+
+.fi-section-header-heading {
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+/* Form labels: clearer hierarchy */
+.fi-fo-field-label-content {
+    font-weight: 600;
+}
+
+/* Infolist entries read as label → value pairs */
+.fi-in-entry-label {
+    font-weight: 500;
+    font-size: 0.8125rem;
+    color: var(--gray-500);
+}
+
+/* Stats cards */
+.fi-wi-stats-overview-stat {
+    border-radius: 1rem;
+}
+
+/* Sidebar: rounder active pill */
+.fi-sidebar-item-btn {
+    border-radius: 0.75rem;
+}
+
+/* Keep numerals, SKUs and prices left-to-right inside Arabic text */
+.fi-in-text-item,
+.fi-ta-text-item {
+    unicode-bidi: plaintext;
+}

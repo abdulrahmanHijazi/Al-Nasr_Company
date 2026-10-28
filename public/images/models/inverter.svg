@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" width="320" height="200" role="img">
+<defs>
+<radialGradient id="glow" cx="50%" cy="46%" r="60%"><stop offset="0" stop-color="#1e3a8a"/><stop offset="1" stop-color="#0b1f3a"/></radialGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1f5f9"/><stop offset="1" stop-color="#94a3b8"/></linearGradient>
+<linearGradient id="cell" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+</defs>
+<rect width="320" height="200" fill="url(#glow)"/>
+<ellipse cx="160" cy="176" rx="100" ry="9" fill="#000" opacity=".25"/>
+<g transform="translate(160 100)"><g transform="translate(0 0) scale(1)"><rect x="-46" y="-62" width="96" height="124" rx="10" fill="url(#metal)"/><rect x="44" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="49" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="54" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="59" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="64" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="69" y="-58" width="3" height="116" fill="#94a3b8"/><rect x="-34" y="-50" width="72" height="50" rx="6" fill="#0f172a"/><path d="M-28 -18 q8 -20 16 0 t16 0 t16 0 t16 0" fill="none" stroke="#4ade80" stroke-width="2.5"/><text x="-28" y="-38" font-size="9" fill="#60a5fa" font-family="monospace">5.0 kW</text><g fill="#cbd5e1" stroke="#64748b"><circle cx="-20" cy="22" r="6"/><circle cx="0" cy="22" r="6"/><circle cx="20" cy="22" r="6"/></g><g fill="#4ade80"><circle cx="-24" cy="46" r="3"/></g><circle cx="-12" cy="46" r="3" fill="#d99a1f"/><g fill="#1f2937"><rect x="-30" y="62" width="10" height="14" rx="3"/><rect x="-10" y="62" width="10" height="14" rx="3"/><rect x="10" y="62" width="10" height="14" rx="3"/></g></g></g>
+</svg>

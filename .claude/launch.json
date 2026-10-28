@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "storefront-preview",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "preview",
+        "--",
+        "--port",
+        "5199",
+        "--strictPort"
+      ],
+      "port": 5199
+    },
+    {
+      "name": "pos-douma",
+      "runtimeExecutable": "php",
+      "runtimeArgs": [
+        "C:/Users/Lenovo/PhpstormProjects/pos-douma/artisan",
+        "serve",
+        "--host=127.0.0.1",
+        "--port=8010"
+      ],
+      "port": 8010
+    },
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "php",
+      "runtimeArgs": [
+        "D:/projects/Protfilo project/artisan",
+        "serve",
+        "--host=127.0.0.1",
+        "--port=8020"
+      ],
+      "port": 8020
+    }
+  ]
+}
